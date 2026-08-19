@@ -1,6 +1,6 @@
 {
   "name": "safari-travel-website",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -8,9 +8,8 @@
     "lucide-react": "^0.263.1"
   },
   "scripts": {
-    "dev": "react-scripts start",
-    "build": "react-scripts build",
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -32,6 +31,7 @@
     ]
   },
   "devDependencies": {
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.3.0"
   }
 }
